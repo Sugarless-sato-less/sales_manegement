@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class DatetimeTest < ActiveSupport::TestCase
+class DaySaleTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
